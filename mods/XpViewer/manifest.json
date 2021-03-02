@@ -1,0 +1,10 @@
+﻿{
+  "Name": "XpViewer",
+  "Author": "Xahor",
+  "Version": "1.0.0",
+  "Description": "Add the current xp as tooltip on skill level",
+  "UniqueID": "Xahor.XpViewer",
+  "EntryDll": "XpViewer.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
