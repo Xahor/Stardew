@@ -1,0 +1,10 @@
+﻿{
+  "Name": "AreaOverlay",
+  "Author": "Cark",
+  "Version": "1.0.0",
+  "Description": "Add item area of effet as overlay",
+  "UniqueID": "Cark.AreaOverlay",
+  "EntryDll": "AreaOverlay.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
